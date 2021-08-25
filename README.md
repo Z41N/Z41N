@@ -1,12 +1,10 @@
-# Hey! I'm Zain (Z41N). 
+# Hey! I'm Zain (Z41N) 👋
 
-
-## About Me
-
-Experienced software engineer with a demonstrated history of working in the fashion, healthcare, and gaming industries. Skilled in Programming, Analytics, Operations and People Management, and Entrepreneurship.
+I'm an experienced software engineer with a demonstrated history of working in the fashion, healthcare, and gaming industries. Skilled in Programming, Analytics, Operations and People Management, and Entrepreneurship.
 
 ## Stack Overview
 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   
 
 ### Hi there 👋
