@@ -1,13 +1,13 @@
-<h1 align="center">Hello! I'm Zain (Z41N). 
+## Hey! I'm Zain (Z41N). 
 
 
-## Contribute
+## About Me
 
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Experienced software engineer with a demonstrated history of working in the fashion, healthcare, and gaming industries. Skilled in Programming, Analytics, Operations and People Management, and Entrepreneurship.
 
-## Special Thanks 🙇
-- [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
+## Stack Overview
+
+  
 
 ## License 
 
