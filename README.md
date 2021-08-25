@@ -9,4 +9,4 @@ I'm an experienced software engineer with a demonstrated history of working in t
 
 For more about what I'm up to, you can visit my website at: https://www.z41n.com/
 
-To get in contact, you can reach me via discord at: ![GitHub](https://camo.githubusercontent.com/1e9f4227f1e423710285a1d4445fbcc9fb02d8fc50efe9a06e2cb84d2624f3d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d697a61726f6f6e69253233343036332d3536363266363f7374796c653d666f722d7468652d6261646765266c6f676f3d446973636f7264266c6f676f436f6c6f723d7768697465)Z41N#1377
+To get in contact, you can reach me via discord at: Z41N#1377
