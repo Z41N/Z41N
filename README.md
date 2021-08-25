@@ -15,6 +15,6 @@ For more about what I'm up to, you can visit my website at: https://www.z41n.com
 
 Ever play MapleStory? You can re-live the nostalgia by playing my emulator: https://maplecitizens.com/
 
-Some of my projects here are confidential due to NDAs, so if you have any questions or are interested in what I'm up to, you can always reach me on discord: Z41N#1377
+Want to get in contact? Reach me via discord: Z41N#1377 || email: zain.sheraz@gmail.com
 
 Thanks for dropping by!
