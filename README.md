@@ -12,6 +12,7 @@ I'm an experienced software engineer with a demonstrated history of working in t
 ![GitHub](https://camo.githubusercontent.com/d22579905070e527f43b1fb4a4a159dfb527fd8475917784aa4e01fdca543b02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3733373761643f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465)
 
 For more about what I'm up to, you can visit my website at: https://www.z41n.com/
+
 Ever play MapleStory? You can re-live the nostalgia by playing my emulator: https://maplecitizens.com/
 
 Some of my projects here are confidential due to NDAs, so if you have any questions or are interested in what I'm up to, you can always reach me on discord: Z41N#1377
