@@ -1,4 +1,4 @@
-# Hey! I'm Zain (Z41N) 👋
+# Hey! I'm Zain 👋
 
 I'm an experienced software engineer with a demonstrated history of working in the gaming, fashion, and healthcare industries, currently working at Amazon. Programming has always been a hobby of mine, but recently its become a more significant part of my life. I'm extremely proud of my accomplishments so far, and am motivated to keep the momentum going by learning from and helping like-minded individuals.
 
