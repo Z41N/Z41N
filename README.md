@@ -1,6 +1,8 @@
 # Hey! I'm Zain 👋
 
-I'm an experienced software engineer with a demonstrated history of working in the gaming, fashion, and healthcare industries. Programming has always been a hobby of mine, but recently it has become a more significant part of my life. I'm extremely proud of my accomplishments so far, and am motivated to keep the momentum going by learning from and helping like-minded individuals.
+I'm an experienced software engineer with a demonstrated history of working in the e-commerce, advertising, gaming, fashion, and healthcare industries. 
+Programming plays a significant role in my life, and it's something I deeply enjoy both professionally and leisurely. 
+Looking forward to building cool things and making some friends along the way!
 
 For more about what I'm up to, you can visit my website at [Z41N.com](https://www.z41n.com). 
 
