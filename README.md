@@ -11,3 +11,6 @@ For more about what I'm up to, you can visit my website at [Z41N.com](https://ww
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="bablubambal" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" alt="bablubambal" height="50" width="50" /> 
+
+
+OFFICIAL DISCORD: `.z41n_` (Please note the underscore)
